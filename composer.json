@@ -1,7 +1,7 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
+    "name": "zhangxingcun/yii2-basic-mongo",
+    "description": "Yii 2 Basic User admin mongo Project Template",
+    "keywords": ["yii2", "framework", "basic", "User","Admin","mongodb","project template"],
     "homepage": "http://www.yiiframework.com/",
     "type": "project",
     "license": "BSD-3-Clause",
