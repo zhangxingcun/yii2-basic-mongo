@@ -57,7 +57,7 @@ $config = [
             ],
         ],
 		'authManager' => [
-            'class' =>'yii\rbac\PhpManager' , //'yii\rbac\PhpManager'  or use 'yii\mongodb\rbac\MongoDbManager'
+            'class' =>'yii\mongodb\rbac\MongoDbManager' , // or use 'yii\rbac\PhpManager'  
         ],
 		'mongodb' => [
             'class' => '\yii\mongodb\Connection',
