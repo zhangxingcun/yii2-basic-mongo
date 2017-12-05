@@ -1,7 +1,7 @@
 以 yii2 basic为基础搭建项目基础:包括权限管理,用户,mongodb
 
 1)下载
-composer create-project zhangxingcun/yii2-basic-mongo:dev-master
+composer create-project zhangxingcun/yii2-basic-mongo
 
 2)配置参数
 权限管理可以用mongodb也可以用文件,默认用mongodb

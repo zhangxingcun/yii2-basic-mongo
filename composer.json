@@ -48,6 +48,7 @@
                 {
                     "runtime": "0777",
                     "web/assets": "0777",
+					"rbac": "0777",
 					"rbac/assignments.php": "0777",
 					"rbac/items.php": "0777",
 					"rbac/rules.php": "0777",
